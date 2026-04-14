@@ -1,0 +1,1 @@
+E:\trenchcraft-main\target\debug\trenchcraft.exe: E:\trenchcraft-main\src\block_shapes.rs E:\trenchcraft-main\src\config.rs E:\trenchcraft-main\src\exporter.rs E:\trenchcraft-main\src\filter.rs E:\trenchcraft-main\src\main.rs E:\trenchcraft-main\src\nbt_unpack.rs E:\trenchcraft-main\src\optimizer.rs E:\trenchcraft-main\src\parser.rs

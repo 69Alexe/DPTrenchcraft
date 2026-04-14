@@ -1,0 +1,10 @@
+C:\Users\Alexe\Pictures\trenchcraft-main\target\release\deps\bounded_integer-1bf349f441a27de5.d: C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bounded-integer-0.5.8\src\lib.rs C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bounded-integer-0.5.8\src\types\mod.rs C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bounded-integer-0.5.8\src\types\indexing.rs C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bounded-integer-0.5.8\src\parse.rs
+
+C:\Users\Alexe\Pictures\trenchcraft-main\target\release\deps\libbounded_integer-1bf349f441a27de5.rlib: C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bounded-integer-0.5.8\src\lib.rs C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bounded-integer-0.5.8\src\types\mod.rs C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bounded-integer-0.5.8\src\types\indexing.rs C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bounded-integer-0.5.8\src\parse.rs
+
+C:\Users\Alexe\Pictures\trenchcraft-main\target\release\deps\libbounded_integer-1bf349f441a27de5.rmeta: C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bounded-integer-0.5.8\src\lib.rs C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bounded-integer-0.5.8\src\types\mod.rs C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bounded-integer-0.5.8\src\types\indexing.rs C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bounded-integer-0.5.8\src\parse.rs
+
+C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bounded-integer-0.5.8\src\lib.rs:
+C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bounded-integer-0.5.8\src\types\mod.rs:
+C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bounded-integer-0.5.8\src\types\indexing.rs:
+C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bounded-integer-0.5.8\src\parse.rs:

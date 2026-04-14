@@ -1,0 +1,16 @@
+minecraft/birch_planks
+minecraft/chest_side
+minecraft/chest_top
+minecraft/cobblestone
+minecraft/dirt
+minecraft/glass
+minecraft/grass_block_side
+minecraft/grass_block_top
+minecraft/oak_leaves
+minecraft/oak_log
+minecraft/oak_planks
+minecraft/wall_torch
+minecraft/water
+minecraft/white_wool
+nodraw
+sky1

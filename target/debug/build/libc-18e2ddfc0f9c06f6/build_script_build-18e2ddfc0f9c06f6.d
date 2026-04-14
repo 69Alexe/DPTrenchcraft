@@ -1,0 +1,5 @@
+E:\trenchcraft-main\target\debug\build\libc-18e2ddfc0f9c06f6\build_script_build-18e2ddfc0f9c06f6.d: C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.182\build.rs
+
+E:\trenchcraft-main\target\debug\build\libc-18e2ddfc0f9c06f6\build_script_build-18e2ddfc0f9c06f6.exe: C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.182\build.rs
+
+C:\Users\Alexe\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.182\build.rs:

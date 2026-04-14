@@ -1,0 +1,1 @@
+E:\DPTrenchcraft-main\target\release\trenchcraft.exe: E:\DPTrenchcraft-main\src\block_shapes.rs E:\DPTrenchcraft-main\src\config.rs E:\DPTrenchcraft-main\src\exporter.rs E:\DPTrenchcraft-main\src\filter.rs E:\DPTrenchcraft-main\src\main.rs E:\DPTrenchcraft-main\src\nbt_unpack.rs E:\DPTrenchcraft-main\src\optimizer.rs E:\DPTrenchcraft-main\src\parser.rs
