@@ -23,10 +23,10 @@ cargo run --release --  build.schem out.map
 
 Dependencies
 
-\\\* \\\*\\\*`fastnbt` \\\\\\\& `flate2`\\\*\\\*: Handles raw and gzip-compressed NBT schematic formats.
-\\\* \\\*\\\*`rustmatica`\\\*\\\*: Reads `.litematic` Fabric schema designs. (I didn't care much about litematic schems so I do not think they work, they were part of the original broken project)
-\\\* \\\*\\\*`mcdata`\\\*\\\*: Provides block ID context and parsing mapping.
-\\\* \\\*\\\*`clap`\\\*\\\*: Drives the command-line argument interface.
+`fastnbt` & `flate2` : Handles raw and gzip-compressed NBT schematic formats.
+`rustmatica` : Reads `.litematic` Fabric schema designs. (I didn't care much about litematic schems so I do not think they work, they were part of the original broken project)
+`mcdata` : Provides block ID context and parsing mapping.
+`clap` : Drives the command-line argument interface.
 
 ## License
 
@@ -56,9 +56,8 @@ Known issues / quirks,
 
 1. side of grass block textures repeats a tiny bit at the top because of the 40 unit height.
 2. every glass type gets converted to normal glass, this can be changed in src/filter.rs
-
-3\. a lot of special blocks just gets deleted, such as doors and plants, this can also be changed in src/filter.rs doors just blocked the players and were unneeded for my projects
-
-4\. config.rs contains some const like the block size, it can be changed there and should be automatically calculated for most blocks. bewarn that you may need to change some calculations at the top of optimizer.rs for special blocks.
+3. a lot of special blocks just gets deleted, such as doors and plants, this can also be changed in src/filter.rs doors just blocked the players and were unneeded for my projects
+4. config.rs contains some const like the block size, it can be changed there and should be automatically calculated for most blocks. bewarn that you may need to change some calculations at the top of optimizer.rs for special blocks.
+5. Floating island maps should always have a layer of dirt on top and underneath it to prevent it from being culled (aka make a giant dirt platform above and underneath that covers the entirety of the schematic)
 
 
